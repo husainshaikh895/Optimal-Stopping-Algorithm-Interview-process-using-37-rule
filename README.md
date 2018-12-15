@@ -32,8 +32,8 @@ In this Phase the candidates will be considered for selection by the algorithm b
 - Put CSV of all the eligible candidates before the process so it will authenticate candidates directly and collect prerequisites of thiers, eg. PRN, Name, Scores in Aptitude,etc.
 
 # Contributors:
-Not significant impact as of now.
+None as of Now.
 
 
 # Copyright
-Husain Akbar Shaikh
+Husain Akbar Shaikh ( shaikhhusain895@gmail.com )
