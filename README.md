@@ -29,7 +29,7 @@ In this Phase the candidates will be considered for selection by the algorithm b
 - Use gmail API to send them(selected candidates) offer letter directly after the process is done
 - Implement a Graphical User Interface
 - Put security restrictions (Authentication)
-- Put CSV of all the eligible candidates before the process so it will authenticate candidates directly and collect prerequisites of thiers, eg. PRN, Name, Scores in Aptitude,etc.
+- Put CSV of all the eligible candidates before the process so it will authenticate candidates directly and collect prerequisites of theirs, eg. PRN, Name, Scores in Aptitude, etc.
 
 # Contributors:
 None as of Now.
