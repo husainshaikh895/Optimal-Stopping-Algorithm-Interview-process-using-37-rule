@@ -1,5 +1,5 @@
 # Optimal-Stopping-Algorithm-Interview-process-using-37-rule
-This work is inspired  from the book "Algorithms to live by" by Brian Christian and Tom Griffiths | Trial of 37% rule for the interview process
+This work is inspired  from the book ```Algorithms to live by``` by **Brian Christian and Tom Griffiths** | Trial of 37% rule for the interview process
 
 So, the problem is of Balancing of Time and Quality.
 You are an interviewer, you have a deadline to select 5 candidates among 200. You can't interview all of them and sort according to their scores, because you have a deadline. You can't select the first five candidates because you haven't seen what others are like.
