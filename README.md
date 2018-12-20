@@ -1,10 +1,56 @@
-# Optimal-Stopping-Algorithm-Interview-process-using-37-rule
+# Optimal-Stopping-Algorithm-Interview-process-using-37 percent-rule
 This work is inspired  from the book ```Algorithms to live by``` by **Brian Christian and Tom Griffiths** | Trial of 37% rule for the interview process
 
 So, the problem is of Balancing of Time and Quality.
 You are an interviewer, you have a deadline to select 5 candidates among 200. You can't interview all of them and sort according to their scores, because you have a deadline. You can't select the first five candidates because you haven't seen what others are like.
 We approach this problem with Optimal Stopping Algorithm which is pretty famous in the Software Industry. Specifically we will use 37% rule. We are using Decision Tree Classifier to classify the candidates ( Selected or Rejected ). We will pass the features and label to later predictions into the fit().
 
+# Dependencies :
+ Libraries
+ ```time```,
+ ```CSV```,
+ ```math```
+ these libraries will come by default with correct python version.
+ 
+ If you find import error use pip.
+ 
+ ```pip install time```
+ 
+ 
+ for Sci-Kit Learn  
+ ```import sklearn```
+ 
+ Assumptions (What I expect to already be installed):
+
+Python 3.6 installed
+Pip installed (If it is not already installed, download and install pip: 
+
+https://pip.pypa.io/en/stable/installing/)
+
+Install numpy: ```pip install numpy```
+
+
+Install scipy: ```pip install scipy```
+
+
+Install sklearn: ```pip install sklearn```
+
+Test installation by opening a python interpreter and importing sklearn:
+python
+```import sklearn```
+
+If it successfully imports (no errors), then sklearn is installed correctly.
+
+[Sci-kit learn Documentation](scikit-learn.org/stable/documentation.html)
+
+
+# Decision Tree Classifier :
+
+[Decision Tree Classifier Documentation](https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html)
+
+[This medium Article](https://medium.com/machine-learning-101/chapter-3-decision-trees-theory-e7398adac567) helped me understand the theory :
+
+ 
 
 # There are two phases namely :
 
