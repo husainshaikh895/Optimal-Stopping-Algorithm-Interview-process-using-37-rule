@@ -51,7 +51,7 @@ python
 
 If it successfully imports (no errors), then sklearn is installed correctly.
 
-[Sci-kit learn Documentation](scikit-learn.org/stable/documentation.html)
+[Sci-kit learn Documentation](https://scikit-learn.org/stable/index.html)
 
 
 # Decision Tree Classifier :
