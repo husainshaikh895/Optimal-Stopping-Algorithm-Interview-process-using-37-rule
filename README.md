@@ -1,4 +1,7 @@
 # Optimal-Stopping-Algorithm-Interview-process-using-37 percent-rule
+
+```This project is a deprecated version. A Django based webapp is in the making and will be available here soon with all the features in it.```
+
 This work is inspired  from the book ```Algorithms to live by``` by **Brian Christian and Tom Griffiths** | Trial of 37% rule for the interview process
 
 # Need of this Project :
