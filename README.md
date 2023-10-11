@@ -91,8 +91,9 @@ In this Phase the candidates will be considered for selection by the algorithm b
 - Put CSV of all the eligible candidates before the process so it will authenticate candidates directly and collect prerequisites of theirs, eg. PRN, Name, Scores in Aptitude, etc.
 
 # Contributors:
-None as of Now.
+[Ankit](https://github.com/ankit2web), 
+[Husain](https://github.com/husainshaikh895)
 
 
 # Copyright
-[Husain Akbar Shaikh](https://www.github.com/HusainShaikh895) ( shaikhhusain895@gmail.com )
+[Husain Akbar Shaikh](https://www.github.com/HusainShaikh895) ( husainshaikhwork@gmail.com )
